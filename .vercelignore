@@ -1,0 +1,6 @@
+references
+node_modules
+.next
+.env*
+.convex
+*.tsbuildinfo
