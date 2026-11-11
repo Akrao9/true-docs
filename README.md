@@ -13,7 +13,7 @@ and add `bob@example.com`. Then open a **new tab**, pick **Bob**, and find it un
 
 ## Run locally
 
-Requires Node 20+.
+Requires Node 22.22+, 24.15+ or 26+ (developed on Node 26). The Convex CLI, Vitest and jsdom need it.
 
 ```bash
 npm install
